@@ -1,0 +1,8 @@
+{
+    "path": "./data/cardata_modified.csv",
+    "name": "Piston Cup Tournament",
+    "nteams": 16,
+    "default_low": 10000,
+    "default_high": 100000,
+    "default_incr": 500
+}
